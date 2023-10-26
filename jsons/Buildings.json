@@ -1,0 +1,44 @@
+[
+        {
+                "name": "Nativity",
+		"percentStatBonus": {"happiness": 5},
+		"requiredBuilding": "Palace",
+		"maintenance": 5,
+		"hurryCostModifier": 0,
+                "uniques": ["Your Training Leader Started"]
+	},
+        {
+                "name": "Gifted Traits",
+		"percentStatBonus": {"culture": 5},
+		"requiredBuilding": "Nativity"
+		"maintenance": 5,
+		"hurryCostModifier": 0,
+                "requiredTech": "Acoustics",
+                "uniques": [""]
+        },
+        {
+                "name": "Piano Resson",
+		"percentStatBonus": {"culture": 5},
+		"requiredBuilding": "Nativity"
+		"maintenance": 5,
+		"hurryCostModifier": 0,
+                "requiredTech": "Acoustics",
+                "uniques": [""]
+        },
+        {
+                "name": "Nativity",
+		"percentStatBonus": {"happiness": 5},
+		"requiredBuilding": "Palace",
+		"maintenance": 5,
+		"hurryCostModifier": 0,
+                "uniques": ["All newly-trained [relevant] units [in this city] receive the [Better equipment] promotion"]
+        },
+        {
+                "name": "Nativity",
+		"percentStatBonus": {"happiness": 5},
+		"requiredBuilding": "Palace",
+		"maintenance": 5,
+		"hurryCostModifier": 0,
+                "uniques": ["All newly-trained [relevant] units [in this city] receive the [Better equipment] promotion"]
+        },
+]
