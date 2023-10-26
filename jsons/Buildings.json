@@ -9,17 +9,16 @@
 	},
         {
                 "name": "Gifted Traits",
-		"percentStatBonus": {"culture": 5},
 		"requiredBuilding": "Nativity"
 		"maintenance": 5,
 		"hurryCostModifier": 0,
-                "requiredTech": "Acoustics",
-                "uniques": [""]
+                "requiredTech": "Currency"
+                "uniques": ["[+20]% [Gold] [in capital] <with [10]% chance>",]
         },
-        {
+	{
                 "name": "Piano Resson",
-		"percentStatBonus": {"culture": 5},
-		"requiredBuilding": "Nativity"
+	        "percentStatBonus": {"happiness": 5},
+		"requiredBuilding": "Nativity",
 		"maintenance": 5,
 		"hurryCostModifier": 0,
                 "requiredTech": "Acoustics",
