@@ -13,11 +13,12 @@
 		"maintenance": 5,
 		"hurryCostModifier": 0,
                 "requiredTech": "Currency"
-                "uniques": ["[+20]% [Gold] [in capital] <with [10]% chance>",]
+                "uniques": ["[+20]% [Gold] [in capital] <with [10]% chance>","[+10]% [Production] [in capital] <with [10]% chance>",
+		"[+20]% [Science] [in capital] <with [10]% chance>","[+20]% [Culture] [in capital] <with [10]% chance>"]
         },
 	{
                 "name": "Piano Resson",
-	        "percentStatBonus": {"happiness": 5},
+	        "percentStatBonus": {"culture": 5},
 		"requiredBuilding": "Nativity",
 		"maintenance": 5,
 		"hurryCostModifier": 0,
