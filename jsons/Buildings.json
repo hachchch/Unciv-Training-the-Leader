@@ -1,6 +1,7 @@
 [
         {
                 "name": "Nativity",
+		"cost": 100,
 		"percentStatBonus": {"happiness": 5},
 		"requiredBuilding": "Palace",
 		"maintenance": 5,
